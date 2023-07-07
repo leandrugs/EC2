@@ -57,7 +57,7 @@
 		<repository>
 			<id>github</id>
 			<name>GitHub OWNER Apache Maven Packages</name>
-			<url>https://maven.pkg.github.com/texai/idat-dsw1-accessing-data-mysql</url>
+			<url>https://maven.pkg.github.com/leandrugs/EContinua2-dsw1-accessing-data-mysql</url>
 		</repository>
 	</distributionManagement>
 
