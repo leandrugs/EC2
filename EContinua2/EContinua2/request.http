@@ -6,8 +6,8 @@ GET http://localhost:8080/demo/all
 POST http://localhost:8080/demo/add HTTP/1.1
 Content-Type: application/x-www-form-urlencoded
 
-name=Ernesto
-&email=ernestex@gmail.com
+name=Leandro
+&email=leandrugs26@gmail.com
 
 ###
 
